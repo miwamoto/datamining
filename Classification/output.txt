@@ -1,0 +1,1456 @@
+--------------------------------------------------------------------------------
+                  Testing Naive Bayesian Classifier : mushroom.test.txt
+--------------------------------------------------------------------------------
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Incorrect
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Poisonous Correct
+NBayes predicts --> Edible    Correct
+NBayes predicts --> Edible    Correct
+
+
+--------------------------------------------
+	Number correct:   671
+	Number incorrect: 30
+	Accuracy:         95.72039942938659%
+--------------------------------------------
+C4.5 Decision tree complete...
+
+
+odor = a--> Class e
+odor = c--> Class p
+odor = f--> Class p
+odor = l--> Class e
+odor = m--> Class p
+odor = n
+|     spore-print-color = b--> Class e
+|     spore-print-color = h--> Class e
+|     spore-print-color = k--> Class e
+|     spore-print-color = n--> Class e
+|     spore-print-color = o--> Class e
+|     spore-print-color = r--> Class p
+|     spore-print-color = u--> Class e
+|     spore-print-color = w
+|     |     veil-color = n--> Class e
+|     |     veil-color = o--> Class e
+|     |     veil-color = w
+|     |     |     gill-size = b--> Class e
+|     |     |     gill-size = n
+|     |     |     |     gill-spacing = c--> Class p
+|     |     |     |     gill-spacing = d--> Class e
+|     |     |     |     gill-spacing = w
+|     |     |     |     |     bruises? = f--> Class e
+|     |     |     |     |     bruises? = t--> Class p
+|     |     veil-color = y--> Class p
+|     spore-print-color = y--> Class e
+odor = p--> Class p
+odor = s--> Class p
+odor = y--> Class p
+
+
+----------------------------------------------------------------------------------
+                    Testing C4.5 Classifier mushroom.test.txt
+----------------------------------------------------------------------------------
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: p
+Predicted Class: e
+Predicted Class: e
+
+
+--------------------------------------------
+	Number correct:   701
+	Number incorrect: 0
+	Accuracy:         100.0%
+--------------------------------------------
